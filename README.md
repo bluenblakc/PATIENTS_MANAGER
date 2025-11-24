@@ -52,7 +52,7 @@ Great for learning: - File handling
 - CRUD application design
 - Modular programming
 ------------------------------------------------------------------------
-inout-->
+INPUT-->
 
 
 .
@@ -78,6 +78,15 @@ inout-->
 
 
 <img width="401" height="700" alt="image" src="https://github.com/user-attachments/assets/74f4aa5e-557d-45a1-921c-1da52224312c" />
+
+
+
+
+OUTPUT--->
+
+
+![Uploading image.png…]()
+
 
 
 
