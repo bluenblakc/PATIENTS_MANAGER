@@ -83,9 +83,7 @@ INPUT-->
 
 
 OUTPUT--->
-
-
-![Uploading image.png…]()
+<img width="554" height="1594" alt="image" src="https://github.com/user-attachments/assets/9c3a0760-301d-4de0-96f3-056fd376d439" />
 
 
 
